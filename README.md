@@ -1,3 +1,5 @@
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkqhofuj002108lbgif5dcyx/stats?cursusId=21&coalitionId=206" alt="jareste-'s 42 stats" /></a>
+
 ### Hi there 👋
 
 <!--
