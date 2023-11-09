@@ -1,4 +1,5 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jareste-?1337Badge=off&UM6P=off" alt="jareste-'s 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jareste-?1337Badge=off&UM6P=off" alt="jareste-'s 42 stats" /></a>
+
 
 <!--
 **jareste/jareste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
