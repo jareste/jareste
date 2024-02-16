@@ -1,5 +1,8 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jareste-?1337Badge=off&UM6P=off" alt="jareste-'s 42 stats" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jareste&theme=tokyonight)
+
+[![jareste's GitHub stats](https://github-readme-stats.vercel.app/api?username=jareste)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jareste/jareste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
