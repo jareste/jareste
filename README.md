@@ -1,4 +1,4 @@
-# 🌟 **Welcome to My GitHub!** 🌟
+# 🌟 **Welcome!** 🌟
 
 **Hi there!** 👋 I’m **Joan Areste**, an **Embedded Software Developer** with a passion for **low-level programming** and **system architecture**. I specialize in **C**, **C++**, **Assembly (asm)**, and **Rust**, with experience in **Python**, **web development**, and containerization using **Docker**.
 
