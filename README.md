@@ -199,7 +199,6 @@ My focus is on building **high-performance** and **reliable software** for embed
 
 ---
 
-
 ## 🌟 **Soft Skills**
 - **Problem-Solving:** Skilled in analyzing and resolving complex issues efficiently.  
 - **Critical Thinking:** Strong ability to assess different approaches for optimal solutions.  
@@ -208,6 +207,8 @@ My focus is on building **high-performance** and **reliable software** for embed
 - **Adaptability:** Quick to learn and apply new technologies and methodologies.  
 - **Attention to Detail:** Focused on code quality, security, and performance.  
 - **Leadership:** Mentoring peers and managing project tasks efficiently.  
+
+---
 
 ### 🔄 **Continuous Improvement**
 - Open to collaborations and contributions!  
