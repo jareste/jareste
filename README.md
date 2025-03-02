@@ -31,7 +31,7 @@ My focus is on building **high-performance** and **reliable software** for embed
 ## 📚 **Highlighted Projects**
 
 <details>
-<summary>🛠️ **C (Embedded)** (Click to expand)</summary>
+<summary>🛠️ <b>C (Embedded)</b></summary>
 
 1. **kfs** - Custom Kernel Implementation  
    - 🛠 **Tech Stack:** C, Assembly  
@@ -51,7 +51,7 @@ My focus is on building **high-performance** and **reliable software** for embed
 </details>
 
 <details>
-<summary>🦀 **Rust Projects** (Click to expand)</summary>
+<summary>🦀 <b>Rust Projects</b></summary>
 
 1. **Gomoku** - Go Game with AI  
    - 🛠 **Tech Stack:** Rust  
@@ -71,7 +71,7 @@ My focus is on building **high-performance** and **reliable software** for embed
 </details>
 
 <details>
-<summary>🛠️ **C (UNIX)** (Click to expand)</summary>
+<summary>🛠️ <b>C (UNIX)</b></summary>
 
 1. **ls** - Custom `ls` Implementation  
    - 🛠 **Tech Stack:** C  
@@ -86,7 +86,7 @@ My focus is on building **high-performance** and **reliable software** for embed
 </details>
 
 <details>
-<summary>🛠️ **C (Network)** (Click to expand)</summary>
+<summary>🛠️ <b>C (Network)</b></summary>
 
 1. **nmap** - Custom Nmap Implementation  
    - 🛠 **Tech Stack:** C  
@@ -106,7 +106,7 @@ My focus is on building **high-performance** and **reliable software** for embed
 </details>
 
 <details>
-<summary>🖥️ **Cybersecurity** (Click to expand)</summary>
+<summary>🖥️ <b>Cybersecurity</b></summary>
 
 1. **ft_shield** - Trojan Daemon Service  
    - 🛠 **Tech Stack:** C  
@@ -126,7 +126,7 @@ My focus is on building **high-performance** and **reliable software** for embed
 </details>
 
 <details>
-<summary>🖥️ **C++** (Click to expand)</summary>
+<summary>🖥️ <b>C++</b></summary>
 
 1. **irc** - IRC Server Compatible with irssi Client  
    - 🛠 **Tech Stack:** C++  
@@ -141,7 +141,7 @@ My focus is on building **high-performance** and **reliable software** for embed
 </details>
 
 <details>
-<summary>🐍 **Data/Python** (Click to expand)</summary>
+<summary>🐍 <b>Data/Python</b></summary>
 
 1. **linear regression** - Linear Regression Implementation  
    - 🛠 **Tech Stack:** Python  
@@ -156,7 +156,7 @@ My focus is on building **high-performance** and **reliable software** for embed
 </details>
 
 <details>
-<summary>🌍 **Web Development Projects** (Click to expand)</summary>
+<summary>🌍 <b>Web Development Projects</b></summary>
 
 1. **transcendence** - Web Application with Pong Game  
    - 🛠 **Tech Stack:** Docker, Django, JavaScript, HTML, CSS  
@@ -198,6 +198,16 @@ My focus is on building **high-performance** and **reliable software** for embed
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
+
+
+## 🌟 **Soft Skills**
+- **Problem-Solving:** Skilled in analyzing and resolving complex issues efficiently.  
+- **Critical Thinking:** Strong ability to assess different approaches for optimal solutions.  
+- **Communication:** Clear and effective in both written and verbal technical explanations.  
+- **Collaboration:** Experienced in working with diverse teams to achieve project goals.  
+- **Adaptability:** Quick to learn and apply new technologies and methodologies.  
+- **Attention to Detail:** Focused on code quality, security, and performance.  
+- **Leadership:** Mentoring peers and managing project tasks efficiently.  
 
 ### 🔄 **Continuous Improvement**
 - Open to collaborations and contributions!  
